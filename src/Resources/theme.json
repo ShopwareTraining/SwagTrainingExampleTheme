@@ -1,10 +1,10 @@
 {
-  "name": "SwagExampleTheme",
+  "name": "SwagTrainingExampleTheme",
   "author": "Shopware AG",
   "views": [
      "@Storefront",
      "@Plugins",
-     "@SwagExampleTheme"
+     "@SwagTrainingExampleTheme"
   ],
   "style": [
     "app/storefront/src/scss/overrides.scss",
@@ -13,7 +13,7 @@
   ],
   "script": [
     "@Storefront",
-    "app/storefront/dist/storefront/js/swag-example-theme.js"
+    "app/storefront/dist/storefront/js/swag-training-example-theme.js"
   ],
   "asset": [
     "@Storefront",
@@ -35,7 +35,7 @@
             }
         },
         "fields": {
-            "sw-color-brand-primary2": {
+            "sw-color-brand-primary": {
                 "label": {
                     "en-GB": "Primary color",
                     "de-DE": "Hauptfarbe"

@@ -9,9 +9,8 @@
     }
   },
   "extra": {
-    "shopware-plugin-class": "SwagTraining\\ExampleTheme\\SwagExampleTheme",
+    "shopware-plugin-class": "SwagTraining\\ExampleTheme\\SwagTrainingExampleTheme",
     "label": {
-      "de-DE": "Example theme",
       "en-GB": "Example theme"
     }
   }
