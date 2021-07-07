@@ -1,0 +1,18 @@
+{
+  "name": "swag-training/example-theme",
+  "description": "Example theme",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SwagTraining\\ExampleTheme\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\ExampleTheme\\SwagExampleTheme",
+    "label": {
+      "de-DE": "Example theme",
+      "en-GB": "Example theme"
+    }
+  }
+}
