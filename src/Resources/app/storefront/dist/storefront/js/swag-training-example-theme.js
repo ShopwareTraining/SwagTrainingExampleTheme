@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["swag-training-example-theme"],{nSFQ:function(n,e){}},[["nSFQ","runtime"]]]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([["swag-training-example-theme"],{zeny:function(n,e){}},[["zeny","runtime"]]]);
